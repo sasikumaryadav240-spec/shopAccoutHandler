@@ -64,9 +64,8 @@ const SalesHistory: React.FC<SalesHistoryProps> = ({ isOpen, onClose }) => {
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4 animate-fadeIn">
-      
-      {/* 90% Width and Height Card Frame Workspace */}
-      <div className="bg-[#111827] border border-slate-800 w-[90vw] h-[90vh] rounded-[32px] shadow-2xl relative flex flex-col overflow-hidden select-none">
+
+      <div className="bg-[#111827] border border-slate-800 w-[90vw] h-[90vh] mt-10 rounded-[32px] shadow-2xl relative flex flex-col overflow-hidden select-none">
         
         {/* Sticky Header App Bar Panel (Locked to Top) */}
         <div className="h-16 px-6 border-b border-slate-800/80 flex items-center justify-between bg-[#111827] shrink-0 sticky top-0 z-20">

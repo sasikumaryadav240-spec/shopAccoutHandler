@@ -322,7 +322,7 @@ const NewOrder: React.FC<NewOrderProps> = ({ isOpen, onClose }) => {
                 </div>
               </div>
 
-              <div className="pt-3 border-t border-slate-800/60 space-y-3">
+              <div className="pt-3 border-t border-slate-800/60 space-y-3 pb-28">
                 <div className="flex items-center justify-between">
                   <span className="text-slate-400 text-[10px] font-semibold uppercase tracking-wider">Total Collection</span>
                   <span className="text-2xl font-black text-emerald-400 tracking-tight">₹{totalAmount}</span>

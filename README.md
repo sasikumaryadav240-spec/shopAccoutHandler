@@ -37,8 +37,17 @@ ShopFlow is a full-stack business management platform designed for small and med
 * MongoDB
 
 ## Screenshots
+## Dashboard
 
-(Add screenshots here)
+![Dashboard](ScreenShotsShopFlow/dashboard.png)
+
+## Orders
+
+![Orders](ScreenShotsShopFlow/orders.png)
+
+## Inventory
+
+![Inventory](ScreenShotsShopFlow/inventory.png)
 
 ## Installation
 

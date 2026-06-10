@@ -39,7 +39,7 @@ ShopFlow is a full-stack business management platform designed for small and med
 ## Screenshots
 ## Dashboard
 
-![Dashboard]([ScreenShotsShopFlow/dashboard.png](https://github.com/sasikumaryadav240-spec/shopAccoutHandler/blob/54145260a64a0dc148177cf537e81532e604a68d/ScreenShotsShopFlow/Screenshot%202026-06-10%20134900.png))
+![Dashboard](ScreenShotsShopFlow/Screenshot%202026-06-10%20134900.png)
 
 ## Orders
 

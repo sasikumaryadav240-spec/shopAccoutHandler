@@ -41,9 +41,9 @@ ShopFlow is a full-stack business management platform designed for small and med
 
 ![Dashboard](ScreenShotsShopFlow/Screenshot%202026-06-10%20134900.png)
 
-## Orders
+## Analysis Page
 
-![Orders](ScreenShotsShopFlow/orders.png)
+![Orders](ScreenShotsShopFlow/Screenshot%202026-06-10%20135224.png)
 
 ## Inventory
 
